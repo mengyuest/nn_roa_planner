@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: DeepRL-Algos
+Version: 0.0.1
+Summary: ...
+Home-page: 
+Author: Ritchie
+Author-email: ritchie-huang@outlook.com
+Maintainer: Ritchie
+License: MIT License
+Platform: all
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: Implementation
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries

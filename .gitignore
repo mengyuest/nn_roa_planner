@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.vscode/
+**/.idea/
+**_pycache__/
+cache*/
+exps_cyclf/*
+walker/*.mat
+walker/*.npz
+walker/*.pkl
+*.asv
+**/*viz*/
