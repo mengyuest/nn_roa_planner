@@ -4,7 +4,7 @@
 
 
 
-[![Conference](https://img.shields.io/badge/L4DC--2023-Accepted-success)](https://l4dc.seas.upenn.edu/)
+[![Conference](https://img.shields.io/badge/L4DC--2023-Accepted-success)](https://proceedings.mlr.press/v211/meng23a/meng23a.pdf)
 [![Arxiv](http://img.shields.io/badge/arxiv-cs:2303.10327-B31B1B.svg)](https://arxiv.org/abs/2303.10327)
 
 [<ins>Reliable Autonomous Systems Lab @ MIT (REALM)</ins>](https://aeroastro.mit.edu/realm/)
@@ -12,15 +12,14 @@
 [<ins>Yue Meng</ins>](https://mengyuest.github.io/), [<ins>Chuchu Fan</ins>](https://chuchu.mit.edu/)
 
 
-> A neural network policy learning framework to stabilize hybrid systems for robots, inspired by Lyapunov theory and Region-of-Attraction (RoA). We aim to ensure the system states always fall into the RoA of corresponding system modes.
+> We propose a neural network policy learning framework to stabilize hybrid systems for robots, inspired by Lyapunov theory and Region-of-Attraction (RoA). We aim to ensure the system states always fall into the RoA of corresponding system modes.
 
 ![Alt Text](figures/roa_teaser_v3.png)
 
 Fig.1 Learn to stablize hybrid systems using an RoA based approach.
 
 
-
-This repository contains the implementation for our L4DC2023 paper, "Hybrid Systems Neural Control with Region-of-Attraction Planner." [[link]](https://arxiv.org/abs/2309.05131.pdf)
+This repository contains the implementation for our L4DC2023 paper, "Hybrid Systems Neural Control with Region-of-Attraction Planner." [[link]](https://arxiv.org/abs/2303.10327.pdf)
 
 ```
 @inproceedings{meng2023hybrid,
